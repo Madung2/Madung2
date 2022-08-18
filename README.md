@@ -14,9 +14,10 @@
 
 <div style="display:flex">
     <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=PostgreSQL&logoColor=white">
+    <img src="https://img.shields.io/badge/MySQL-7B68EE?style=for-the-badge&logo=MySQL&logoColor=white">
     <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=Docker&logoColor=white">
     <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=MongoDB&logoColor=white">
-<img src="https://img.shields.io/badge/AWS-DB7093?style=for-the-badge&logo=AWS&logoColor=white">
+<img src="https://img.shields.io/badge/AWS-E34F26?style=for-the-badge&logo=AWS&logoColor=white">
 </div>
 
 
