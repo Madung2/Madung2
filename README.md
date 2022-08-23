@@ -13,7 +13,7 @@ Neverstopping Backend Developer
 ## 📌[My Portfolio](https://github.com/Madung2/portfolio)
 
 
-
+## 📌
 <div style="display:flex">
     <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white">
   <img  style='display:flex;float:left' src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=Django&logoColor=white">
