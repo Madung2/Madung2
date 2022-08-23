@@ -1,4 +1,8 @@
-### Hi, I'm Yeseul (aka Tasha)  👋
+### Hi, I'm Yeseul  👋
+Neverstopping Backend Developer
+
+[Portfolio](https://github.com/Madung2/portfolio)
+
 
 
 <div style="display:flex">
