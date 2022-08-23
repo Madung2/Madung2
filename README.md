@@ -1,7 +1,16 @@
 # Hi, I'm Yeseul  👋
 Neverstopping Backend Developer
 
-## [My Portfolio](https://github.com/Madung2/portfolio)
+## 📌Intro
+처음 제 손으로 로직을 구현한 순간의 짜릿함을 기억하고, 언제나 달려가는 신입 백엔드 개발자입니다.
+
+## 📌Contact
+
+* 이메일: tuliphan91@gmail.com
+* 블로그: https://velog.io/@tasha_han_1234
+* 깃헙: https://github.com/Madung2
+
+## 📌[My Portfolio](https://github.com/Madung2/portfolio)
 
 
 
