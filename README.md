@@ -1,4 +1,4 @@
-# Hi, I'm Yeseul You can also call me Tasha.👋
+# Hi, I'm Yeseul. You can also call me Tasha.👋
 I am a junior Python Backend Developer.
 
 ## 📌Intro
