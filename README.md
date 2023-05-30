@@ -1,12 +1,22 @@
-# Hi, I'm Yeseul  👋
-Neverstopping Backend Developer
+# Hi, I'm Yeseul You can also call me Tasha.👋
+I am a junior Python Backend Developer.
 
 ## 📌Intro
-처음 제 손으로 로직을 구현한 순간의 짜릿함을 기억하고, 언제나 달려가는 신입 백엔드 개발자입니다.
+
+"Even after several years as a developer, coding still brings me joy. 
+Despite the laughter I've faced, I continue to find it fascinating. 
+Welcome to my GitHub."
+
+코딩 재밌어서 합니다. 
+코딩 n년째 하고 있는데 아직도 재밌음
+
+## 📌WorkPlace Info
+https://www.xquant-ai.com/
 
 ## 📌Contact
 
-* 이메일: tuliphan91@gmail.com
+* 개인이메일: tuliphan91@gmail.com
+* 회사이메일: tasha@xquant-ai.com
 * 블로그: https://velog.io/@tasha_han_1234
 * 깃헙: https://github.com/Madung2
 
