@@ -1,5 +1,5 @@
-# Hi, I'm Yeseul. You can also call me Tasha.👋
-I am a junior Python Backend Developer.
+# Tasha Han .👋
+Software Developer.
 
 ## 📌Intro
 
