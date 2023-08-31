@@ -8,7 +8,7 @@ I am a junior Python Backend Developer.
 <br>Welcome to my GitHub."
 <br>
 <br>코딩 재밌어서 합니다. 
-<br>코딩 n년째 하고 있는데 아직도 재밌음
+<br>코딩 n년째 하고 있는데 아직도 재밌어요.
 
 <br>"나는 코드를 통해 세상을 만들어가는 창조자다. 
 <br>그 속에 내재된 능력은 나에게 동시에 힘과 자유를 선사한다. 
