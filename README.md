@@ -1,5 +1,5 @@
 # Tasha Han .👋
-Software Developer.
+Python Backend & Machine Learning AI (LLM)
 
 ## 📌Intro
 
@@ -16,7 +16,7 @@ Software Developer.
 <br>이것이 바로 나의 개발자로서의 삶, 나만의 자유롭고 창조적인 여정이다."
 
 ## 📌WorkPlace Info
-https://www.xquant-ai.com/
+https://edentns.com/
 
 ## 📌Contact
 
