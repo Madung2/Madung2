@@ -20,6 +20,7 @@ https://edentns.com/
 
 ## 핵심 역량 프로젝트 DocCompareX
 
+![image](https://github.com/Madung2/Madung2/assets/104334219/20fbbb9f-9e08-4ec0-acf7-b66389bcaf55)
 
 
 - N모 대기업등 유수 사업체에 납품하는 솔루션 DocCompareX 핵심 개발자 
