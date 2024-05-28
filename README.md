@@ -21,7 +21,7 @@ https://edentns.com/
 ## 📌Contact
 
 * 개인이메일: tuliphan91@gmail.com
-* 회사이메일: tasha@xquant-ai.com
+* 회사이메일: yshan@edentns.com
 * 블로그: https://velog.io/@tasha_han_1234
 * 깃헙: https://github.com/Madung2
 
