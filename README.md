@@ -18,6 +18,9 @@ Python Backend & Machine Learning AI
 ## 📌WorkPlace Info
 https://edentns.com/
 
+
+
+https://www.linkedin.com/posts/xquant_brochure-doccomparex-activity-7124983097338556416-Q_Nb?utm_source=li_share&utm_content=feedcontent&utm_medium=g_dt_web&utm_campaign=copy
 ## 📌Contact
 
 * 개인이메일: tuliphan91@gmail.com
