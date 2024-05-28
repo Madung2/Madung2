@@ -1,5 +1,5 @@
 # Tasha Han .👋
-Python Backend & Machine Learning AI (LLM)
+Python Backend & Machine Learning AI
 
 ## 📌Intro
 
