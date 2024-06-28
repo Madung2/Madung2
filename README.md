@@ -3,9 +3,7 @@ Python Backend & Machine Learning AI
 
 ## 📌Intro
 
-"Even after several years as a developer, coding still brings me joy. 
-<br>Despite the laughter I've faced, I continue to find it fascinating. 
-<br>Welcome to my GitHub."
+
 <br>
 <br>코딩 재밌어서 합니다. 
 <br>코딩 아직도 재밌어요.
