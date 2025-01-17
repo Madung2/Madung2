@@ -19,7 +19,7 @@ https://edentns.com/
 ## 이력서
 https://ninth-gate-58a.notion.site/Backend-Doc-compareX-b326962a829e4eec827f3c4e54d43a03
 
-## 핵심 역량 프로젝트 DocCompareX
+##  DocCompareX
 
 ![image](https://github.com/Madung2/Madung2/assets/104334219/20fbbb9f-9e08-4ec0-acf7-b66389bcaf55)
 
