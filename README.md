@@ -17,7 +17,7 @@ Python Backend & Machine Learning AI
 https://edentns.com/
 
 ## 이력서
-https://ninth-gate-58a.notion.site/Backend-Doc-compareX-b326962a829e4eec827f3c4e54d43a03
+
 
 ##  DocCompareX
 
