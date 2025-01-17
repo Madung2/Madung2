@@ -44,7 +44,7 @@ https://www.linkedin.com/posts/xquant_brochure-doccomparex-activity-712498309733
 * 블로그: https://velog.io/@tasha_han_1234
 * 깃헙: https://github.com/Madung2
 
-## 📌[My Portfolio](https://github.com/Madung2/portfolio)
+## 📌[My Portfolio]
   
 ## 📌Skills
 <div style="display:flex">
