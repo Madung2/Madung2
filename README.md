@@ -18,8 +18,3 @@ https://edentns.com/
 
 ## 이력서
 
-
-##  DocCompareX
-
-![image](https://github.com/Madung2/Madung2/assets/104334219/20fbbb9f-9e08-4ec0-acf7-b66389bcaf55)
-
